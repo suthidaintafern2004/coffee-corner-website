@@ -1,0 +1,74 @@
+commit 922bc590a91ba6c1da784118e7d0d8769280694f
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:42:23 2025 +0700
+
+    Update code in the menu page
+
+commit a8bf156c1b216de1b96668acc68ed4f992b3e0d7
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:38:53 2025 +0700
+
+    docs: Update README.md with project information
+
+commit 35933b733c0742d392e005e21fefc919d67f369b
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:34:57 2025 +0700
+
+    feat: Add a footer to all pages
+
+commit ce3a1008805c7f572d1ab880cdb867ce58468e11
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:24:03 2025 +0700
+
+    Add navigation links to main page
+
+commit 07ebecc563811dc205c46aa6798a172c0396cfe4
+Merge: d2cff33 ba37e37
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:21:45 2025 +0700
+
+    Update the contact fight for the second round because the merge did not pass
+
+commit ba37e372e9f719268f4f85ae08f1c398261a5b4c
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:15:19 2025 +0700
+
+    Update Contact that had the wrong code written
+
+commit d2cff3366bd9beed4dc4b17dc10319840a44eec6
+Merge: 4167308 29bc028
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:13:48 2025 +0700
+
+    Update Contact that had the wrong code written
+
+commit 4167308b8e3de253808392b39cf8b64e94fe943c
+Merge: 21ca808 d22a6bc
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 10:07:41 2025 +0700
+
+    fight record README first round
+
+commit 21ca80841420298ad0e8d23d58987b357ef971f7
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 09:58:20 2025 +0700
+
+    Improve website styling with modern CSS
+
+commit 29bc02809abf0597402cdc3af82420096758b839
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 09:48:47 2025 +0700
+
+    Add contact page with business information
+
+commit d22a6bcc8ecd7a4c13c21186221fc083f3a4ee62
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 09:47:16 2025 +0700
+
+    Add menu page with coffee prices
+
+commit f04184b3cf25451de7930e0248e47737029de83c
+Author: Suthida Inta <suthidainta7@gmail.com>
+Date:   Tue Sep 2 09:42:38 2025 +0700
+
+     Add basic website structure
